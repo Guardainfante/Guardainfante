@@ -2,6 +2,7 @@
 
 This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
 
+Wie geht das mit den MD
 
 Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
 
