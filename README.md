@@ -229,6 +229,7 @@ erzeugen in den Straßen
 # Aufruhr in Madrid
 
 Junge Männer zogen durch Madrid und beleidigten Frauen, die einen Guardainfante trugen.
+Sie wurden Übergriffig und Gewaltsam gegenüber Frauen
 
 ### „Frauen würden Öffentliche Unruhe verursachen wenn sie so breit rumlaufen”
 
@@ -247,21 +248,130 @@ Vives, 94–109; Le on, 302–28.
 
 
 
+
+---
+
+
+
+
+# Zwei Männer werden ermordet für ihr Verhalten gegenüber Frauen
+## 1636 in Madrid
+
+
+
+---
+
+
+
+# Verbote
+<img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
+King Philip IV. Sumptuary law banning the guardainfante for all women
+except for prostitutes. Madrid, 1639. Historical and Special Collections,
+Harvard Law School Library.
+
+
+Die neuen Gesetze suggestieren, es sei unmöglich die
+Frauen vom Tragen des Guardainfante zu stoppen
+
+
+Kleider wurden an der Fassade des Hof-Gefängnisses
+aufgehangen.
+
+
+Doch niemand beachtete das Gesetz, nicht einmal die
+König Isabel de Borbón selbst
+
+
+
+---
+
+# Sexwork
+Das neue Gesetz erlaubt nur Sexworkerinnen
+den Guardainfante zu tragen.
+
+
+Damit würden sie erkennbar sein und die
+Öffentlichkeit könne ihr treiben überwache.
+Da jeder Hausbesuch auffällig ist.
+
+
+Klare Abgrenzung von der Gesellschaft und
+Stigmatisierung von Sexworkenden
+
+
+
+
+---
+
+
+
+# Schwangerschaft
+
+## „Frauen verstecken ihre Schwangerschaft”
+
+Kein einziger Fall ist bekannt, von einer versteckten
+Schwangerschaft unter dem Kleid.
+
+
+Frauen wird vorgeworfen uneheliche Kinder zu verstecken.
+
+
+Das Kleid sei demnach unehrlich und gefährlich
+
+
+
+---
+
+
+
+# Nationalismus
+Katharina von Braganza heiratet in die britische Krone. Auf dem Weg zur Hochzeit steigt sie auf ein Schiff der Spanischen Krone in einer Guardainfanta und steigt einige Tage später von Bord wieder in einer Guardainfanta. Die britische Öffentlichkeit ist empört. Diese Zuschaustellung spanischer Herkunft, Katholischen Glaubens und Allianz zur Spanischen Krone lässt sie in Ungnade 
+
+<img src='img/Catherineofbraganza.png' class='noresize'>
+Catherine of Braganza
+by or after Dirck Stoop
+oil on canvas, circa 1660-1661
+48 1/2 in. x 39 1/2 in. (1232 mm x 1003 mm)
+
+
+The guardainfante was front and center in the marriages of three
+Iberian princesses in the 1660s: the infanta Mar ı a Teresa’s 1660 marriage to
+Louis XIV of France, the wedding of the Portuguese princess Catherine of
+Braganza to Charles II of England in 1662, and the infanta Margarita’s union
+with the Holy Roman emperor Leopold I in 1666.
+
+
+
+### Catherine of Braganza’s (...) the guardainfante marked her as foreign, Catholic, and an ally of their Spanish enemy.
+
+
+Der französische Diplomat Antoine de Grammont reist nach Spanien um die Hochzeit zwischen María Teresa und König Louis XIV zu arrangieren schreibt er es sei unmöglich den Körper zu beurteilen, da sie eine große Guardainfanta trug.
+
+
+
+---
+
+
+# Geopolitik
+## Auftreten
+Die Guardainfante markiert einen klaren Unterschied zwischen Unterstützern der französischen und spanischen Krone. Besonders weil Fartingales in Frankreich aus der Mode gekommen waren.
+
+
+## Positionierung
+In der Stadt Genua, tragen die Frauen ihre Guardainfante, zum Ärgernis der französischen Besatzer.
+Eigentlich gehört Genua zu Spanien, wurde allerdings von Frankreich anektiert.
+
+
+
+
+
+
+
 ### Design
 
 The webpage is designed with the aim to open an evocative information space, where the sources that foster creativity, dialogue, and learning can be gathered, recapitulated, and appreciated. The monolithic structure of conventional documents is broken up, by introducing a relational quality to the connections between sections and items.
 
 
-### Structure
-
-There are two main types of elements:
-
-- **Sections** – Larger blocks gather the material for weekly course sessions.
-- **Items** – Smaller elements feature images, text, and other content.
-
-Each item is connected with its section by a thin line. The navigation (≡) gives access to all sections.
-
-The last section acts as the footer, where the typical array of logos and links belongs.
 
 
 ### Examples
