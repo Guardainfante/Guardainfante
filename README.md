@@ -247,8 +247,7 @@ Sie wurden Übergriffig und Gewaltsam gegenüber Frauen
 Ibid., 148 (line 60): “ya no caben las hembras dentro del mundo.”
 
 
-According to those sixteenthcentury
-authors, the ideal woman was silent and agreeable. She worked hard inside
+According to those sixteenthcentury authors, the ideal woman was silent and agreeable. She worked hard inside
 the home to fulfill her domestic chores, and she avoided going out in public
 whenever possible. She dressed cleanly but modestly and shunned cosmetics and
 opulent attire, although a married woman might have to make up her face and
@@ -371,6 +370,31 @@ potential for bearing future emperors.”
 
 ---
 
+# Empowerment
+Unklar bleibt bis heute, ob die Frauen die
+Kleider für sich trugen, oder für die Männer.
+Dabei sind eine Vielzahl an Einschränkungen zu beachten.
+
+
+Die Guardainfanta schafft den Frauen mehr Raum in der Öffentlichkeit einzunehmen und gehört zu werden.
+
+
+Die Kleider sorgten für Aufmerksamkeit, im guten wie im schlechten.
+
+
+Die Trägerinnen der Kleider wurden in ihrer Bewegungsfreiheit stark eingeschränkt. Sie passten teilweise nicht mehr durch die Türen des Hofes.
+
+
+Frauen konnten mehr Raum in der Gesellschaft
+einnehmen, wurden wichtiger im öffentlichen Diskurs.
+
+
+Jede Körperform konnte verdeckt und zum
+Schönheitsstandard der Zeit geformt werden. Sie schützten den Körper vor Blicken und schafften eine Hülle/Maske.
+
+
+---
+
 
 
 # Nationalismus
@@ -407,6 +431,28 @@ Der französische Diplomat Antoine de Grammont reist nach Spanien um die Hochzei
 
 ## Auftreten
 Die Guardainfante markiert einen klaren Unterschied zwischen Unterstützern der französischen und spanischen Krone. Besonders weil Fartingales in Frankreich aus der Mode gekommen waren.
+Das Kleid wurden auf allen wichtigen Anlässen getragen und zeigt für Betrachtende direkt die Allianz zur Spanischen Krone.
+Prinzessinen und Königinnen der Spanischen Krone trugen das Kleid auch im Ausland.
+
+
+<img src='img/Las-Meninas--009-3762035840.jpg' class='noresize'>
+
+Las Meninas
+Diego Velázquez, 1656
+Öl auf Leinwand
+318 × 276 cm
+Museo del Prado
+
+
+The hoopskirt that seemed so “monstrous” in Paris and London was viewed
+much more favorably in Vienna, a Spanish ally with a common Habsburg bond,
+which was the destination of the infanta Margarita (1651–73). The daughter of
+Philip IV and Mariana of Austria, Margarita is best known as the little girl at
+the center of Vel azquez’s Las Meninas (1656) ), which features the
+five-year-old infanta wearing a guardainfante almost as wide as she is tall.
+
+See Bandr es Oto, 210–11, on children’s clothing,
+and on the infanta Margarita’s attire in Las Meninas, 358–59.
 
 
 ## Positionierung
@@ -416,7 +462,17 @@ Eigentlich gehört Genua zu Spanien, wurde allerdings von Frankreich anektiert.
 
 
 
+---
 
+
+# Guardainfanta 
+## Ein spanisches Kleid sorgt für Aufsehen im In- und Ausland
+
+Zusammenfassend kann gesagt werden; dass das Kleid im 17. Jahrhundert eine wichtige Rolle in Europa spielte.
+In Spanien und im Höfischen Leben von ganz Europa war das Kleid eine Symbolisches Statement mit vielen Dimensionen.
+Dabei schwankt die Konnotation des Kleids zwischen positiven und negativen Assoziationen.
+
+Ein Kleid das die Sexworkerinnen kontrollieren soll, Schwangerschaften verdecken würde aber auch Fruchtbarkeit untermalt.
 
 
 
