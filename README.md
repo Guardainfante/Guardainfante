@@ -1,8 +1,11 @@
-# Guardainfante
+# Modisches Powerplay 
 
-This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
+## Feminismus und Nationalismus
 
-Wie geht das mit den MD
+Diese Datenvisualisierung handelt von Isabel de Borbon, ihrem Kleid und der spanischen Krone.
+Wir betrachten das Thema zeitgenössische und hinterfragen die Quellen.
+
+
 
 Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
 
@@ -115,14 +118,13 @@ There are two conventions we introduce to distinguish and connect sections and i
 Each section should contain a heading:
 `#` for primary, `##` for secondary, and so on.
 
-To exclude a section from the navigation menu, include `<!--skipnav-->` at the start of the section.
+
 
 
 
 ### Things to consider
 
-- Include an expressive preview image `img/cover.png` so that your page can be previewed on social media and messaging apps.
-- Given that your webpage might be accessed from a mobile device with a slow connection make sure to optimize image file sizes.
+
 
 
 ---
@@ -130,19 +132,6 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 
 ## Who
 
-*Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
-
-
-**Markdown munching**: [Marked](https://marked.js.org) by Christopher Jeffrey
-
-
-**Terrific typeface**: [HK Grotesk](https://github.com/HankenDesignCo/HK-Grotesk) by Alfredo Marco Pradil
-
-
-**Friendly feedback**: Myriel Milicevic, Lamin Manneh, Fidel Thomet, Mark-Jan Bludau, Sabine de Günther and Francesca Morini
-
-
-**Yes, you!**: Syllabus Site is [made available](https://github.com/uclab-potsdam/syllabus-site/) under the liberal MIT license. Feel free to reuse and revise it!
 
 
 ---
