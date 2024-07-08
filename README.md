@@ -360,6 +360,7 @@ Die spanische Krone zeigt ihre Prinzessinnen gerne in Guardainfanta, um die Fäh
 
 
 <img src='img/Margarita.jpg' class='noresize'>
+
 The portrait of the infanta Margarita (ca. 1665)
 Ignacio Ruiz de la Iglesia
 Oliv an Santaliestra, 2011, 843–45.
