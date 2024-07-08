@@ -1,9 +1,9 @@
 /* Global styles*/
 
 @font-face {
-    font-family: hkgrotesk;
-    src: url("./fonts/hkgrotesk-bold.woff") format("woff");
-    font-weight: bold;
+    font-family: PPEditorialNew-Regular;
+    src: url("./fonts/PPEditorialNew-Regular.otf") format("otf");
+    font-weight: regular;
 }
 
 @font-face {
@@ -132,14 +132,17 @@ div.hasImg span {
 h1 {
     margin: .25em 0;
     font-size: 2em;
+	text-align: center;
 }
 h2 {
     margin: .25em 0;
     font-size: 1.5em;
+	text-align: center;
 }
 h3 {
     margin: .5em 0;
-    font-size: 1.25em;    
+    font-size: 1.25em;
+	text-align: center;
 }
 ul {
     padding: 0 0 0 1em;
