@@ -21,6 +21,7 @@ Das Gemälde entstand 1620 und damit ein Jahr bevor Isabel de Borbón zur König
 Zum Zeitpunkt der Entstehung ist sie Frau von Philip dem Vierten, dessen Bruder 1621 stirbt und damit die beiden zu Nachfolgern macht.
 <img src='img/Portrait_Rahmen_lq.jpg' class='noresize'>
 
+
 Gemalt von Rodrigo de Villandrando
 
 
@@ -37,6 +38,7 @@ heute hängt es im Museo del Prado
 
 
 ## Entstehung des Bildes
+
 
 ### Rodrigo de Villandrando
 geboren in Madrid 1588
@@ -158,8 +160,8 @@ Author: Amanda Wunder
 
 
 # Guardainfanta
-Die größte Machtdemonstration nach außen ist das Kleid von Isabel de Borbón
-Es handelt sich um ein sogenanntes Guardainfanta.
+Die größte Symbolische Wirkung nach außen hat das Kleid von Isabel de Borbón
+Es handelt sich um eine sogenannte Guardainfanta.
 
 
 
@@ -169,7 +171,7 @@ Es handelt sich um ein sogenanntes Guardainfanta.
 # Farbe
 Die Farben des Kleids sind von äußerst großer Bedeutung. Es sind die klassichen Farben des Portugisischen Hofs.
 Denn Isabel de Borbón ist zum Zeitpunkt der Entstehung noch nicht Königin von Portugal, wird es aber bald werden.
-Portugal ist zu diesem Zeitpunkt Teil der Spanischen Krone
+Portugal ist zu diesem Zeitpunkt Teil der Spanischen Krone.
 <img src='img/Muster.jpg' class='noresize'>
 
 
@@ -184,8 +186,8 @@ Portugal ist zu diesem Zeitpunkt Teil der Spanischen Krone
 
 
 # Die Konstruktion
-Die Guardainfanta beruht auf dem Reifrock, genannt Farthingale. 
-Der Reifrock wird aus Holz, Walknochen, später auch Blech an der Hüfte der Trägerin befestigt.
+Die Guardainfanta beruht auf einem Reifrock, genannt Farthingale. 
+Der Farthingale wird aus Holz, Walknochen, später auch Blech zu einer Konstruktion geformt. Ringförmig um die Trägerin. Anschließend wird er an der Hüfte befestigt.
 Darüber kommt meist ein Unterrock und dann die Guardainfanta.
 <img src='img/Konstruktion.jpg' class='noresize'>
 
@@ -299,6 +301,11 @@ König Isabel de Borbón selbst
 Das neue Gesetz erlaubt nur Sexworkerinnen
 den Guardainfante zu tragen.
 
+
+<img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
+Johann Theodor de Bry
+Proscenium vitæ humanæ siue Emblematvm Secvlarivm, Ivcvndissima, & artificiosissima varietate Vitæ Hvmanæ & seculi huius deprauati mores, ac studia peruersissima
+Franckfurt : Fitzer, 1627
 
 Damit würden sie erkennbar sein und die
 Öffentlichkeit könne ihr treiben überwache.
