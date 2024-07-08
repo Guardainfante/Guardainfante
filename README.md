@@ -137,6 +137,7 @@ manchette ‚Ärmelchen'
 
 ### Spitze
 <img src='img/Taschentuch.jpg' class='noresize'>
+
 Spitze >Garngeflecht< bzw.
 >in Zacken auslaufende Borte<
 Diese Spitzenform wurde zuerst in Venedig gepflegt (Point de Venise) und bald in Frankreich nachgeahmt (Point de France, Point de Neige, Rose Point)
@@ -352,7 +353,7 @@ Die spanische Krone zeigt ihre Prinzessinnen gerne in Guardainfanta, um die Fäh
 
 
 
-<img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
+<img src='img/Margarita.jpg' class='noresize'>
 The portrait of the infanta Margarita (ca. 1665)
 Ignacio Ruiz de la Iglesia
 Oliv an Santaliestra, 2011, 843–45.
