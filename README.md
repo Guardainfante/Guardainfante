@@ -202,7 +202,9 @@ Isabel de Borbón, 17. Jahrhundert
 
 
 ### Tontillo
+
 Eine besonders breite Variante war in Mode von 1660 bis 1700
+
 <img src='img/Tontillo.jpg' class='noresize'>
 
 Juan Carreño de Miranda. Doña Inés de Zúñiga, Condesa de Monterrey.
