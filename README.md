@@ -1,4 +1,4 @@
-![Queen Mariana of Austria](https://github.com/Guardainfante/Guardainfante/assets/169163195/f32db084-9956-434f-aa67-eb9394d5348a)# Modisches Powerplay 
+# Modisches Powerplay 
 ## Feminismus und Nationalismus
 ---
 
