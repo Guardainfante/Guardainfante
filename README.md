@@ -312,6 +312,9 @@ Damit würden sie erkennbar sein und die
 Da jeder Hausbesuch auffällig ist.
 
 
+<img src='img/Prostitution.jpg' class='noresize'>
+
+
 Klare Abgrenzung von der Gesellschaft und
 Stigmatisierung von Sexworkenden
 
@@ -335,6 +338,28 @@ Frauen wird vorgeworfen uneheliche Kinder zu verstecken.
 
 Das Kleid sei demnach unehrlich und gefährlich
 
+
+---
+# Fruchtbarkeit
+Das Kleid stand sowohl für uneheliche Schwangerschaft, als auch für Fruchtbarkeit.
+Die spanische Krone zeigt ihre Prinzessinnen gerne in Guardainfanta, um die Fährigkeit einen gesunden Nachfahren/Herrscher/Thronfolger zu gebähren, zu zeigen.
+
+
+
+<img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
+The portrait of the infanta Margarita (ca. 1665)
+Ignacio Ruiz de la Iglesia
+Oliv an Santaliestra, 2011, 843–45.
+
+
+Tochter von König Philipp VI
+Nach ihrer Heirat in den Wiener Hof
+
+
+“a thirteen-year-old Margarita was portrayed wearing
+a guardainfante beneath an orange skirt and pointing
+toward her belly in a gesture that promises the princess’s
+potential for bearing future emperors.”
 
 
 ---
