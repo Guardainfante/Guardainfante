@@ -53,7 +53,7 @@ Er war Maler des Spanischen Hofs von 1608 bis 1622.
 
 ## Die Mode en detail
 
-The *Syllabus Site* template can be easily used with minimal technical requirements.
+Die Mode der Zeit ist starker Bedeutung für Macht, Familiäre Allianzen, Wohlstand und Geopolitischer Positionierung.
 
 <img src='img/Juwelenschmuck.jpg' class='noresize'>
 
@@ -82,6 +82,7 @@ The *Syllabus Site* template can be easily used with minimal technical requireme
 Isabel de Borbon trägt eine Halskrause aus Spitze mit Floralen Details
 <img src='img/Halskrause.jpg' class='noresize'>
 
+
 Krausen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten die Golilla Kragen, gehärtete Kragen die mehrmals getragen werden konnten.
 
 
@@ -95,7 +96,7 @@ Juan Pantoja de la Cruz
  Juan Pantoja de la Cruz (Spanish, 1553-1608). Doña Ana de Velasco y Girón, 1603. Collection of Alicia Koplowitz
 
 
-<img src='img/BusteEugina.jpg' class='noresize'>
+<img src='img/BusteEugina.png' class='noresize'>
 Busteportret van Isabella Clara Eugenia, Crispijn van de Passe (I), 1596
 gravure, h 147mm × b 114mm
 
@@ -118,7 +119,7 @@ Oil on canvas | 204.6 x 121.2 cm | RCIN 404970
 Die Manschette war und ist häufig eine Art Gegenstück zum Kragen. Sie ergänzen sich oft in Stil und Form oder stehen in einem gewissen Verhältnis zueinander.
 
 
-manchette ‚Ärmelchen
+manchette ‚Ärmelchen'
 
 
 ### Spitze
@@ -129,11 +130,17 @@ Diese Spitzenform wurde zuerst in Venedig gepflegt (Point de Venise) und bald in
 
 
 
+
+
 ---
+
+
 
 
 # Women’s Fashions and Politics in Seventeenth-Century Spain: The Rise and Fall of the Guardainfante
 Author: Amanda Wunder
+
+
 
 
 ---
@@ -142,6 +149,14 @@ Author: Amanda Wunder
 # Guardainfanta
 Die größte Machtdemonstration nach außen ist das Kleid von Isabel de Borbòn
 Es handelt sich um ein sogenanntes Guardainfanta.
+
+
+
+
+
+
+
+
 
 
 ### Design
