@@ -4,7 +4,7 @@ Feminismus und Nationalismus
 Diese Datenvisualisierung handelt von Isabel de Borbon, ihrem Kleid und der spanischen Krone.
 Wir betrachten das Thema zeitgenössische und hinterfragen die Quellen.
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='fit'>
 
 
 
