@@ -1,11 +1,10 @@
 # Modisches Powerplay 
-
-## Feminismus und Nationalismus
+Feminismus und Nationalismus
 
 Diese Datenvisualisierung handelt von Isabel de Borbon, ihrem Kleid und der spanischen Krone.
 Wir betrachten das Thema zeitgenössische und hinterfragen die Quellen.
 
-
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
 
 Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
 
