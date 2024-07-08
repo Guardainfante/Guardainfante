@@ -1,5 +1,5 @@
 # Modisches Powerplay 
-Feminismus und Nationalismus
+## Feminismus und Nationalismus
 
 Diese Datenvisualisierung handelt von Isabel de Borbon, ihrem Kleid und der spanischen Krone.
 Wir betrachten das Thema zeitgenössische und hinterfragen die Quellen.
@@ -54,6 +54,7 @@ Er war Maler des Spanischen Hofs von 1608 bis 1622.
 ## Die Mode en detail
 
 Die Mode der Zeit ist starker Bedeutung für Macht, Familiäre Allianzen, Wohlstand und Geopolitischer Positionierung.
+
 
 <img src='img/Juwelenschmuck.jpg' class='noresize'>
 
@@ -152,10 +153,46 @@ Es handelt sich um ein sogenanntes Guardainfanta.
 
 
 
+---
+
+
+# Farbe
+Die Farben des Kleids sind von äußerst großer Bedeutung. Es sind die klassichen Farben des Portugisischen Hofs.
+Denn Isabel de Borbòn ist zum Zeitpunkt der Entstehung noch nicht Königin von Portugal, wird es aber bald werden.
+Portugal ist zu diesem Zeitpunkt Teil der Spanischen Krone
+<img src='img/Muster.jpg' class='noresize'>
+
+
+<img src='img/Offwhite.jpg' class='noresize'>
+
+
+<img src='img/Gold.jpg' class='noresize'>
 
 
 
+---
 
+
+# Die Konstruktion
+Die Guardainfanta beruht auf dem Reifrock, genannt Farthingale. 
+Der Reifrock wird aus Holz, Walknochen, später auch Blech an der Hüfte der Trägerin befestigt.
+Darüber kommt meist ein Unterrock und dann die Guardainfanta.
+<img src='img/Konstruktion.jpg' class='noresize'>
+
+
+Speziell an der Spansiche Variation des Fartingales ist die ovale Form. 
+Die Fartingales von Frankreich und England waren meist rund.
+
+
+Isabel de Borbón, 17. Jahrhundert
+<img src='img/Isabel_rot.jpg' class='noresize'>
+
+
+### Tontillo
+Eine besonders breite Variante war in Mode von 1660 bis 1700
+<img src='img/Tontillo.jpg' class='noresize'>
+Juan Carreño de Miranda. Doña Inés de Zúñiga, Condesa de Monterrey.
+Hacia 1660-1670. Museo Lázaro Galdiano. Madrid.
 
 
 
