@@ -47,6 +47,9 @@ gestorben in Madrid 1622
 Titel des ,,Gerichtsvollzieher”
 
 
+<img src='img/Madrid1620.jpg' class='noresize'>
+
+
 Er war Maler des Spanischen Hofs von 1608 bis 1622.
 
 
@@ -57,16 +60,22 @@ Er war Maler des Spanischen Hofs von 1608 bis 1622.
 
 The *Syllabus Site* template can be easily used with minimal technical requirements.
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/Juwelenschmuck.jpg' class='noresize'>
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/Muster.jpg' class='noresize'>
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/Schneppe.jpg' class='noresize'>
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/Taschentuch.jpg' class='noresize'>
+
+
+<img src='img/Manschette.jpg' class='noresize'>
+
+
+<img src='img/Halskrause.jpg' class='noresize'>
 
 
 
@@ -76,21 +85,21 @@ The *Syllabus Site* template can be easily used with minimal technical requireme
 
 ## Halskrause
 Isabel de Borbon trägt eine Halskrause aus Spitze mit Floralen Details
-
+<img src='img/Halskrause.jpg' class='noresize'>
 
 Kragen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten die Golilla Kragen, gehärtete Kragen die mehrmals getragen werden konnten.
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/Clara.jpg' class='noresize'>
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/PANTOJA.jpg' class='noresize'>
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/BusteEugina.jpg' class='noresize'>
 
 
-<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+<img src='img/348818-1355504017.jpg' class='noresize'>
 
 
 
@@ -100,10 +109,12 @@ Kragen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten di
 ## Taschentuch und Manschette
 
 ### Manschette
+<img src='img/Manschette.jpg' class='noresize'>
 Die Manschette war und ist häufig eine Art Gegenstück zum Kragen. Sie ergänzen sich oft in Stil und Form oder stehen in einem gewissen Verhältnis zueinander.
 
 
 ### Spitze
+<img src='img/Taschentuch.jpg' class='noresize'>
 Spitze >Garngeflecht< bzw.
 >in Zacken auslaufende Borte<
 Diese Spitzenform wurde zuerst in Venedig gepflegt (Point de Venise) und bald in Frankreich nachgeahmt (Point de France, Point de Neige, Rose Point)
