@@ -1,4 +1,4 @@
-# Modisches Powerplay 
+![Queen Mariana of Austria](https://github.com/Guardainfante/Guardainfante/assets/169163195/f32db084-9956-434f-aa67-eb9394d5348a)# Modisches Powerplay 
 ## Feminismus und Nationalismus
 ---
 
@@ -164,6 +164,7 @@ Author: Amanda Wunder
 Die größte Symbolische Wirkung nach außen hat das Kleid von Isabel de Borbón
 Es handelt sich um eine sogenannte Guardainfanta.
 
+<img src='img/Portrait_Rahmen_lq.jpg' class='noresize'>
 
 
 ---
@@ -277,13 +278,16 @@ Vives, 94–109; Le on, 302–28.
 
 # Verbote
 König Philip der Vierte muss auf die Situation in Madrid reagieren. Eine Nonne, mit welcher er in regem Austausch steht, empfiehlt ihm das Kleid zu verbieten und damit das Volk zu beruhigen.
-Das Gesetz folgt prompt.
+Das Gesetz folgt am 13 April 1639. Mit Trommeln und Trompeten wird das Gesetz verkündet.
 
 <img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
 
 King Philip IV. Sumptuary law banning the guardainfante for all women
 except for prostitutes. Madrid, 1639. Historical and Special Collections,
 Harvard Law School Library.
+
+
+Frauen die gegen das Gesetz verstoßen würden, würde eine Geldstrafe bekommen und das Kleid konfisziert.
 
 
 Die neuen Gesetze suggestieren, es sei unmöglich die
@@ -426,6 +430,12 @@ Der französische Diplomat Antoine de Grammont reist nach Spanien um die Hochzei
 
 
 
+
+<img src='img/Queen Mariana of Austria.png' class='noresize'>
+
+The iconic guardainfante, as worn by Queen Mariana of Austria, second wife of Philip
+IV. Diego Vel azquez. Queen Mariana of Austria, ca. 1652. Museo Nacional del Prado, Madrid.
+
 ---
 
 
@@ -476,6 +486,11 @@ In Spanien und im Höfischen Leben von ganz Europa war das Kleid eine Symbolisch
 Dabei schwankt die Konnotation des Kleids zwischen positiven und negativen Assoziationen.
 
 Ein Kleid das die Sexworkerinnen kontrollieren soll, Schwangerschaften verdecken würde aber auch Fruchtbarkeit untermalt.
+
+
+
+
+---
 
 
 
