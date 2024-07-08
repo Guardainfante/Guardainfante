@@ -1,6 +1,11 @@
 # Modisches Powerplay 
 ## Feminismus und Nationalismus
 
+
+---
+
+
+
 Diese Datenvisualisierung handelt von Isabel de Borbon, ihrem Kleid und der spanischen Krone.
 Wir betrachten das Thema zeitgenössische und hinterfragen die Quellen.
 
@@ -193,6 +198,52 @@ Eine besonders breite Variante war in Mode von 1660 bis 1700
 <img src='img/Tontillo.jpg' class='noresize'>
 Juan Carreño de Miranda. Doña Inés de Zúñiga, Condesa de Monterrey.
 Hacia 1660-1670. Museo Lázaro Galdiano. Madrid.
+
+
+
+
+
+---
+
+
+
+# Kritik an der Mode
+
+María de la Encarnacion muss vor Gericht
+
+
+Guardainfante seien zu groß, zu unbequem
+
+
+Verheiratete Frauen sollten sich für ihren
+Mann kleiden, damit er der Frau treu bleibt
+
+
+Guardainfante würden zu viel Aufmerksamkeit
+erzeugen in den Straßen
+
+
+---
+
+
+# Aufruhr in Madrid
+
+Junge Männer zogen durch Madrid und beleidigten Frauen, die einen Guardainfante trugen.
+
+### „Frauen würden Öffentliche Unruhe verursachen wenn sie so breit rumlaufen”
+
+### “Now women do not fit in the world”
+Ibid., 148 (line 60): “ya no caben las hembras dentro del mundo.”
+
+
+According to those sixteenthcentury
+authors, the ideal woman was silent and agreeable. She worked hard inside
+the home to fulfill her domestic chores, and she avoided going out in public
+whenever possible. She dressed cleanly but modestly and shunned cosmetics and
+opulent attire, although a married woman might have to make up her face and
+dress more lavishly if this was what her husband wanted.
+39
+Vives, 94–109; Le on, 302–28.
 
 
 
