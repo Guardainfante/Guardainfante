@@ -6,11 +6,6 @@ Wir betrachten das Thema zeitgenössische und hinterfragen die Quellen.
 
 <img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
 
-Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
-
-
-Scroll along to find out  
-[why](#why), [what](#what), [how](#how) & [who](#who).  
 
 
 ---
@@ -20,7 +15,7 @@ Scroll along to find out
 
 Das Gemälde entstand 1620 und damit ein Jahr bevor Isabel de Borbon zur Königin von Spanien gekrönt wurde.
 Zum Zeitpunkt der Entstehung ist sie Frau von Philip dem Vierten, dessen Bruder 1621 stirbt und damit die beiden zu Nachfolgern macht.
-
+<img src='img/Portrait_Rahmen_lq.jpg' class='noresize'>
 
 Gemalt von Rodrigo de Villandrando
 
@@ -87,19 +82,28 @@ The *Syllabus Site* template can be easily used with minimal technical requireme
 Isabel de Borbon trägt eine Halskrause aus Spitze mit Floralen Details
 <img src='img/Halskrause.jpg' class='noresize'>
 
-Kragen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten die Golilla Kragen, gehärtete Kragen die mehrmals getragen werden konnten.
+Krausen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten die Golilla Kragen, gehärtete Kragen die mehrmals getragen werden konnten.
 
 
 <img src='img/Clara.jpg' class='noresize'>
+Isabel Clara Eugenia
+Juan Pantoja de la Cruz
+(1553–1608)
 
 
 <img src='img/PANTOJA.jpg' class='noresize'>
+ Juan Pantoja de la Cruz (Spanish, 1553-1608). Doña Ana de Velasco y Girón, 1603. Collection of Alicia Koplowitz
 
 
 <img src='img/BusteEugina.jpg' class='noresize'>
+Busteportret van Isabella Clara Eugenia, Crispijn van de Passe (I), 1596
+gravure, h 147mm × b 114mm
 
 
 <img src='img/348818-1355504017.jpg' class='noresize'>
+JUAN PANTOJA DE LA CRUZ (C. 1553-1608)
+Margaret of Austria, Queen Consort of Philip III of Spain (1584-1611) c.1605
+Oil on canvas | 204.6 x 121.2 cm | RCIN 404970
 
 
 
@@ -108,9 +112,13 @@ Kragen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten di
 
 ## Taschentuch und Manschette
 
+
 ### Manschette
 <img src='img/Manschette.jpg' class='noresize'>
 Die Manschette war und ist häufig eine Art Gegenstück zum Kragen. Sie ergänzen sich oft in Stil und Form oder stehen in einem gewissen Verhältnis zueinander.
+
+
+manchette ‚Ärmelchen
 
 
 ### Spitze
@@ -121,13 +129,19 @@ Diese Spitzenform wurde zuerst in Venedig gepflegt (Point de Venise) und bald in
 
 
 
+---
 
+
+# Women’s Fashions and Politics in Seventeenth-Century Spain: The Rise and Fall of the Guardainfante
+Author: Amanda Wunder
 
 
 ---
 
 
-
+# Guardainfanta
+Die größte Machtdemonstration nach außen ist das Kleid von Isabel de Borbòn
+Es handelt sich um ein sogenanntes Guardainfanta.
 
 
 ### Design
