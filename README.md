@@ -274,6 +274,8 @@ Vives, 94–109; Le on, 302–28.
 
 
 # Verbote
+König Philip der Vierte muss auf die Situation in Madrid reagieren. Eine Nonne, mit welcher er in regem Austausch steht, empfiehlt ihm das Kleid zu verbieten und damit das Volk zu beruhigen.
+Das Gesetz folgt prompt.
 
 <img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
 
@@ -283,7 +285,7 @@ Harvard Law School Library.
 
 
 Die neuen Gesetze suggestieren, es sei unmöglich die
-Frauen vom Tragen des Guardainfante zu stoppen
+Frauen vom Tragen des Guardainfante zu stoppen.
 
 
 Kleider wurden an der Fassade des Hof-Gefängnisses
@@ -291,7 +293,10 @@ aufgehangen.
 
 
 Doch niemand beachtete das Gesetz, nicht einmal die
-König Isabel de Borbón selbst
+König Isabel de Borbón selbst.
+
+
+Die Unfähigkeit des Königs ein so banales Gesetz durch zu setzen, wird kritisiert und zeigt seine Schwäche als Herrscher auf.
 
 
 
@@ -299,7 +304,7 @@ König Isabel de Borbón selbst
 
 # Sexwork
 Das neue Gesetz erlaubt nur Sexworkerinnen
-den Guardainfante zu tragen.
+die Guardainfante zu tragen.
 
 
 <img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
@@ -308,7 +313,7 @@ Proscenium vitæ humanæ siue Emblematvm Secvlarivm, Ivcvndissima, & artificiosi
 Franckfurt : Fitzer, 1627
 
 Damit würden sie erkennbar sein und die
-Öffentlichkeit könne ihr treiben überwache.
+Öffentlichkeit könne ihr treiben überwachen.
 Da jeder Hausbesuch auffällig ist.
 
 
@@ -316,7 +321,7 @@ Da jeder Hausbesuch auffällig ist.
 
 
 Klare Abgrenzung von der Gesellschaft und
-Stigmatisierung von Sexworkenden
+Stigmatisierung von Sexworkenden. 
 
 
 
@@ -328,6 +333,7 @@ Stigmatisierung von Sexworkenden
 # Schwangerschaft
 
 ## „Frauen verstecken ihre Schwangerschaft”
+Diese Rufe werden immer lauter in der Spanischen Gesellschaft.
 
 Kein einziger Fall ist bekannt, von einer versteckten
 Schwangerschaft unter dem Kleid.
@@ -336,7 +342,8 @@ Schwangerschaft unter dem Kleid.
 Frauen wird vorgeworfen uneheliche Kinder zu verstecken.
 
 
-Das Kleid sei demnach unehrlich und gefährlich
+Das Kleid sei demnach unehrlich und gefährlich.
+
 
 
 ---
