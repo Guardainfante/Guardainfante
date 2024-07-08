@@ -50,6 +50,75 @@ Titel des ,,Gerichtsvollzieher”
 Er war Maler des Spanischen Hofs von 1608 bis 1622.
 
 
+---
+
+
+## Die Mode en detail
+
+The *Syllabus Site* template can be easily used with minimal technical requirements.
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+
+
+---
+
+
+## Halskrause
+Isabel de Borbon trägt eine Halskrause aus Spitze mit Floralen Details
+
+
+Kragen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten die Golilla Kragen, gehärtete Kragen die mehrmals getragen werden konnten.
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+<img src='img/Isabel de Borbón, Wife of Philip IV.jpg' class='noresize'>
+
+
+
+---
+
+
+## Taschentuch und Manschette
+
+### Manschette
+Die Manschette war und ist häufig eine Art Gegenstück zum Kragen. Sie ergänzen sich oft in Stil und Form oder stehen in einem gewissen Verhältnis zueinander.
+
+
+### Spitze
+Spitze >Garngeflecht< bzw.
+>in Zacken auslaufende Borte<
+Diese Spitzenform wurde zuerst in Venedig gepflegt (Point de Venise) und bald in Frankreich nachgeahmt (Point de France, Point de Neige, Rose Point)
+
+
+
+
+
+
+---
+
+
+
+
+
 ### Design
 
 The webpage is designed with the aim to open an evocative information space, where the sources that foster creativity, dialogue, and learning can be gathered, recapitulated, and appreciated. The monolithic structure of conventional documents is broken up, by introducing a relational quality to the connections between sections and items.
