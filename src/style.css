@@ -1,9 +1,9 @@
 /* Global styles*/
 
 @font-face {
-    font-family: PPEditorialNew;
+    font-family: PPEditorialNew-Regular;
     src: url("./fonts/PPEditorialNew-Regular.woff") format("woff");
-    font-weight: bold;
+    font-weight: Regular;
 }
 
 @font-face {
