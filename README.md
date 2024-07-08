@@ -501,7 +501,7 @@ Diese Visualisierung wurde kuratiert und gestaltet von David Lamb
 Kurs: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert SoSe 2024
 
 
-Betreuung: Sabine de Günther
+Betreuung: Dr. Sabine de Günther
 
 
 
