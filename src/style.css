@@ -1,8 +1,8 @@
 /* Global styles*/
 
 @font-face {
-    font-family: PPEditorialNew-Regular;
-    src: url("./fonts/PPEditorialNew-Regular.otf") format("otf");
+    font-family: PPEditorialNew;
+    src: url("./fonts/PPEditorialNew-Regular.woff") format("woff");
     font-weight: regular;
 }
 
