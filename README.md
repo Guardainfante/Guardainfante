@@ -18,7 +18,8 @@ Scroll along to find out
 
 ## Machtfestigung 
 
-In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
+Das Gemälde entstand 1620 und damit ein Jahr bevor Isabel de Borbon zur Königin von Spanien gekrönt wurde.
+Zum Zeitpunkt der Entstehung ist sie Frau von Philip dem Vierten, dessen Bruder 1621 stirbt und damit die beiden zu Nachfolgern macht.
 
 
 Gemalt von Rodrigo de Villandrando
@@ -36,9 +37,17 @@ heute hängt es im Museo del Prado
 ---
 
 
-## What
+## Entstehung des Bildes
 
-A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
+### Rodrigo de Villandrando
+geboren in Madrid 1588
+gestorben in Madrid 1622
+
+
+Titel des ,,Gerichtsvollzieher”
+
+
+Er war Maler des Spanischen Hofs von 1608 bis 1622.
 
 
 ### Design
