@@ -19,7 +19,7 @@ Das Portrait zeigt die Mode der Zeit, die Geopolitische Positionierung, den Wohl
 
 Das Gemälde entstand 1620 und damit ein Jahr bevor Isabel de Borbón zur Königin von Spanien gekrönt wurde.
 Zum Zeitpunkt der Entstehung ist sie Frau von Philip dem Vierten, dessen Bruder 1621 stirbt und damit die beiden zu Nachfolgern macht.
-<img src='img/Portrait_Rahmen_lq.jpg' class='noresize'>
+<img src='img/Portrait_Rahmen_lq.jpg' >
 
 
 Gemalt von Rodrigo de Villandrando
@@ -48,7 +48,7 @@ gestorben in Madrid 1622
 Titel des ,,Gerichtsvollzieher”
 
 
-<img src='img/Madrid1620.jpg' class='noresize'>
+<img src='img/Madrid1620.jpg'  >
 
 
 Er war Maler des Spanischen Hofs von 1608 bis 1622.
@@ -62,22 +62,22 @@ Er war Maler des Spanischen Hofs von 1608 bis 1622.
 Die Mode der Zeit ist starker Bedeutung für Macht, Familiäre Allianzen, Wohlstand und Geopolitischer Positionierung.
 
 
-<img src='img/Juwelenschmuck.jpg' class='noresize'>
+<img src='img/Juwelenschmuck.jpg'>
 
 
-<img src='img/Muster.jpg' class='noresize'>
+<img src='img/Muster.jpg' >
 
 
-<img src='img/Schneppe.jpg' class='noresize'>
+<img src='img/Schneppe.jpg' >
 
 
-<img src='img/Taschentuch.jpg' class='noresize'>
+<img src='img/Taschentuch.jpg' >
 
 
-<img src='img/Manschette.jpg' class='noresize'>
+<img src='img/Manschette.jpg' >
 
 
-<img src='img/Halskrause.jpg' class='noresize'>
+<img src='img/Halskrause.jpg' >
 
 
 
@@ -88,31 +88,31 @@ Die Mode der Zeit ist starker Bedeutung für Macht, Familiäre Allianzen, Wohlst
 ## Halskrause
 Isabel de Borbón trägt eine Halskrause aus Spitze mit Floralen Details
 
-<img src='img/Halskrause.jpg' class='noresize'>
+<img src='img/Halskrause.jpg' >
 
 
 Krausen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten die Golilla Kragen, gehärtete Kragen die mehrmals getragen werden konnten.
 
 
-<img src='img/Clara.jpg' class='noresize'>
+<img src='img/Clara.jpg' >
 
 Isabel Clara Eugenia
 Juan Pantoja de la Cruz
 (1553–1608)
 
 
-<img src='img/PANTOJA.jpg' class='noresize'>
+<img src='img/PANTOJA.jpg' >
 
  Juan Pantoja de la Cruz (Spanish, 1553-1608). Doña Ana de Velasco y Girón, 1603. Collection of Alicia Koplowitz
 
 
-<img src='img/BusteEugina.png' class='noresize'>
+<img src='img/BusteEugina.png'  >
 
 Busteportret van Isabella Clara Eugenia, Crispijn van de Passe (I), 1596
 gravure, h 147mm × b 114mm
 
 
-<img src='img/348818-1355504017.jpg' class='noresize'>
+<img src='img/348818-1355504017.jpg'  >
 
 JUAN PANTOJA DE LA CRUZ (C. 1553-1608)
 Margaret of Austria, Queen Consort of Philip III of Spain (1584-1611) c.1605
@@ -127,7 +127,7 @@ Oil on canvas | 204.6 x 121.2 cm | RCIN 404970
 
 
 ### Manschette
-<img src='img/Manschette.jpg' class='noresize'>
+<img src='img/Manschette.jpg'  >
 
 Die Manschette war und ist häufig eine Art Gegenstück zum Kragen. Sie ergänzen sich oft in Stil und Form oder stehen in einem gewissen Verhältnis zueinander.
 
@@ -136,7 +136,7 @@ manchette ‚Ärmelchen'
 
 
 ### Spitze
-<img src='img/Taschentuch.jpg' class='noresize'>
+<img src='img/Taschentuch.jpg'  >
 
 Spitze >Garngeflecht< bzw.
 >in Zacken auslaufende Borte<
@@ -164,7 +164,7 @@ Author: Amanda Wunder
 Die größte Symbolische Wirkung nach außen hat das Kleid von Isabel de Borbón
 Es handelt sich um eine sogenannte Guardainfanta.
 
-<img src='img/Portrait_Rahmen_lq.jpg' class='noresize'>
+<img src='img/Portrait_Rahmen_lq.jpg'  >
 
 
 ---
@@ -174,13 +174,13 @@ Es handelt sich um eine sogenannte Guardainfanta.
 Die Farben des Kleids sind von äußerst großer Bedeutung. Es sind die klassichen Farben des Portugisischen Hofs.
 Denn Isabel de Borbón ist zum Zeitpunkt der Entstehung noch nicht Königin von Portugal, wird es aber bald werden.
 Portugal ist zu diesem Zeitpunkt Teil der Spanischen Krone.
-<img src='img/Muster.jpg' class='noresize'>
+<img src='img/Muster.jpg'  >
 
 
-<img src='img/Offwhite.jpg' class='noresize'>
+<img src='img/Offwhite.jpg'  >
 
 
-<img src='img/Gold.jpg' class='noresize'>
+<img src='img/Gold.jpg'  >
 
 
 
@@ -191,7 +191,7 @@ Portugal ist zu diesem Zeitpunkt Teil der Spanischen Krone.
 Die Guardainfanta beruht auf einem Reifrock, genannt Farthingale. 
 Der Farthingale wird aus Holz, Walknochen, später auch Blech zu einer Konstruktion geformt. Ringförmig um die Trägerin. Anschließend wird er an der Hüfte befestigt.
 Darüber kommt meist ein Unterrock und dann die Guardainfanta.
-<img src='img/Konstruktion.jpg' class='noresize'>
+<img src='img/Konstruktion.jpg'  >
 
 
 Speziell an der Spansiche Variation des Fartingales ist die ovale Form. 
@@ -199,14 +199,14 @@ Die Fartingales von Frankreich und England waren meist rund.
 
 
 Isabel de Borbón, 17. Jahrhundert
-<img src='img/Isabel_rot.jpg' class='noresize'>
+<img src='img/Isabel_rot.jpg'  >
 
 
 ### Tontillo
 
 Eine besonders breite Variante war in Mode von 1660 bis 1700
 
-<img src='img/Tontillo.jpg' class='noresize'>
+<img src='img/Tontillo.jpg'  >
 
 Juan Carreño de Miranda. Doña Inés de Zúñiga, Condesa de Monterrey.
 Hacia 1660-1670. Museo Lázaro Galdiano. Madrid.
@@ -280,7 +280,7 @@ Vives, 94–109; Le on, 302–28.
 König Philip der Vierte muss auf die Situation in Madrid reagieren. Eine Nonne, mit welcher er in regem Austausch steht, empfiehlt ihm das Kleid zu verbieten und damit das Volk zu beruhigen.
 Das Gesetz folgt am 13 April 1639. Mit Trommeln und Trompeten wird das Gesetz verkündet.
 
-<img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
+<img src='img/Luxusgesetzte_Spanien.jpg'  >
 
 King Philip IV. Sumptuary law banning the guardainfante for all women
 except for prostitutes. Madrid, 1639. Historical and Special Collections,
@@ -313,7 +313,7 @@ Das neue Gesetz erlaubt nur Sexworkerinnen
 die Guardainfante zu tragen.
 
 
-<img src='img/Luxusgesetzte_Spanien.jpg' class='noresize'>
+<img src='img/Luxusgesetzte_Spanien.jpg'  >
 Johann Theodor de Bry
 Proscenium vitæ humanæ siue Emblematvm Secvlarivm, Ivcvndissima, & artificiosissima varietate Vitæ Hvmanæ & seculi huius deprauati mores, ac studia peruersissima
 Franckfurt : Fitzer, 1627
@@ -323,7 +323,7 @@ Damit würden sie erkennbar sein und die
 Da jeder Hausbesuch auffällig ist.
 
 
-<img src='img/Prostitution.jpg' class='noresize'>
+<img src='img/Prostitution.jpg'  >
 
 
 Klare Abgrenzung von der Gesellschaft und
@@ -359,7 +359,7 @@ Die spanische Krone zeigt ihre Prinzessinnen gerne in Guardainfanta, um die Fäh
 
 
 
-<img src='img/Margarita.jpg' class='noresize'>
+<img src='img/Margarita.jpg'  >
 
 The portrait of the infanta Margarita (ca. 1665)
 Ignacio Ruiz de la Iglesia
@@ -408,7 +408,7 @@ Schönheitsstandard der Zeit geformt werden. Sie schützten den Körper vor Blic
 # Nationalismus
 Katharina von Braganza heiratet in die britische Krone. Auf dem Weg zur Hochzeit steigt sie auf ein Schiff der Spanischen Krone in einer Guardainfanta und steigt einige Tage später von Bord wieder in einer Guardainfanta. Die britische Öffentlichkeit ist empört. Diese Zuschaustellung spanischer Herkunft, Katholischen Glaubens und Allianz zur Spanischen Krone lässt sie in Ungnade 
 
-<img src='img/Catherineofbraganza.png' class='noresize'>
+<img src='img/Catherineofbraganza.png'  >
 
 Catherine of Braganza
 by or after Dirck Stoop
@@ -432,7 +432,7 @@ Der französische Diplomat Antoine de Grammont reist nach Spanien um die Hochzei
 
 
 
-<img src='img/Queen Mariana of Austria.png' class='noresize'>
+<img src='img/Queen Mariana of Austria.png'  >
 
 The iconic guardainfante, as worn by Queen Mariana of Austria, second wife of Philip
 IV. Diego Vel azquez. Queen Mariana of Austria, ca. 1652. Museo Nacional del Prado, Madrid.
@@ -449,7 +449,7 @@ Das Kleid wurden auf allen wichtigen Anlässen getragen und zeigt für Betrachte
 Prinzessinen und Königinnen der Spanischen Krone trugen das Kleid auch im Ausland.
 
 
-<img src='img/Las-Meninas--009-3762035840.jpg' class='noresize'>
+<img src='img/Las-Meninas--009-3762035840.jpg'  >
 
 Las Meninas
 Diego Velázquez, 1656
