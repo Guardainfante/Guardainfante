@@ -507,7 +507,7 @@ Betreuung: Dr. Sabine de Günther
 
 
 
-
+---
 
 
 [<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
