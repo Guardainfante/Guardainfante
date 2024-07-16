@@ -512,7 +512,7 @@ Kurs: Argumentation im Bild und über das Bild: Europäische Bild- und Kleiderge
 
 Betreuung: Dr. Sabine de Günther
 
-
+https://uclab.fh-potsdam.de/bildargument/
 
 
 
