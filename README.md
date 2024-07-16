@@ -2,7 +2,6 @@
 ## Feminismus und Nationalismus
 ---
 
-# Intro
 Diese Datenvisualisierung handelt von Isabel de Borbón, ihrem Kleid und der spanischen Krone.
 Die Kleidung der zukünftigen Königin ist mit großer Intention gewählt und bedeutungsvoll in ihrer Symbolik.
 
