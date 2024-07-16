@@ -6,7 +6,7 @@
 Diese Datenvisualisierung handelt von Isabel de Borbón, ihrem Kleid und der spanischen Krone.
 Die Kleidung der zukünftigen Königin ist mit großer Intention gewählt und bedeutungsvoll in ihrer Symbolik.
 
-Das Portrait zeigt die Mode der Zeit, die Geopolitische Positionierung, den Wohlstand, die Rolle der Frau und noch vieles mehr.
+Das Portrait zeigt die Mode der Zeit, die geopolitische Positionierung, den Wohlstand, die Rolle der Frau und noch vieles mehr.
 
 <img src='img/Isabel de Borbón, Wife of Philip IV.jpg'>
 
@@ -18,7 +18,7 @@ Das Portrait zeigt die Mode der Zeit, die Geopolitische Positionierung, den Wohl
 ## Machtfestigung 
 
 Das Gemälde entstand 1620 und damit ein Jahr bevor Isabel de Borbón zur Königin von Spanien gekrönt wurde.
-Zum Zeitpunkt der Entstehung ist sie Frau von Philip dem Vierten, dessen Bruder 1621 stirbt und damit die beiden zu Nachfolgern macht.
+Zum Zeitpunkt der Entstehung ist sie Frau von Philipp IV., dessen Bruder 1621 stirbt und damit die beiden zu Nachfolgern macht.
 <img src='img/Portrait_Rahmen_lq.jpg' >
 
 
@@ -86,7 +86,7 @@ Die Mode der Zeit ist starker Bedeutung für Macht, Familiäre Allianzen, Wohlst
 
 
 ## Halskrause
-Isabel de Borbón trägt eine Halskrause aus Spitze mit Floralen Details
+Isabel de Borbón trägt eine Halskrause aus Spitze mit floralen Details
 
 <img src='img/Halskrause.jpg' >
 
@@ -97,25 +97,29 @@ Krausen aus Spitze wurden 1623 verboten, durch ein Luxusgesetz. Darauf folgten d
 <img src='img/Clara.jpg' >
 
 Isabel Clara Eugenia
-Juan Pantoja de la Cruz
+Juan Pantoja de la Cruz, 1598 - 1599
 (1553–1608)
-
+Oil on canvas
+14,7 × 11,4 cm
 
 <img src='img/PANTOJA.jpg' >
 
- Juan Pantoja de la Cruz (Spanish, 1553-1608). Doña Ana de Velasco y Girón, 1603. Collection of Alicia Koplowitz
+Doña Ana de Velasco y Girón, 1603
+Juan Pantoja de la Cruz (Spanish, 1553-1608).
+Collection of Alicia Koplowitz
+103 x 82 cm
 
 
 <img src='img/BusteEugina.png'  >
 
 Busteportret van Isabella Clara Eugenia, Crispijn van de Passe (I), 1596
-gravure, h 147mm × b 114mm
+gravure, 112 × 89 cm
 
 
 <img src='img/348818-1355504017.jpg'  >
 
-JUAN PANTOJA DE LA CRUZ (C. 1553-1608)
 Margaret of Austria, Queen Consort of Philip III of Spain (1584-1611) c.1605
+Juan Pantoja de la Cruz (C. 1553-1608)
 Oil on canvas | 204.6 x 121.2 cm | RCIN 404970
 
 
@@ -194,12 +198,16 @@ Darüber kommt meist ein Unterrock und dann die Guardainfanta.
 <img src='img/Konstruktion.jpg'  >
 
 
+
 Speziell an der Spansiche Variation des Fartingales ist die ovale Form. 
 Die Fartingales von Frankreich und England waren meist rund.
 
 
-Isabel de Borbón, 17. Jahrhundert
+
 <img src='img/Isabel_rot.jpg'  >
+Isabel de Borbón
+Diego Velazquez. Queen Mariana of Austria, ca. 1652. 
+Museo Nacional del Prado, Madrid.
 
 
 ### Tontillo
@@ -244,7 +252,7 @@ Junge Männer zogen durch Madrid und beleidigten Frauen, die einen Guardainfante
 Sie wurden Übergriffig und Gewaltsam gegenüber Frauen
 
 
-### „Frauen würden Öffentliche Unruhe verursachen wenn sie so breit rumlaufen”
+### „Frauen würden öffentliche Unruhe verursachen wenn sie so breit rumlaufen”
 
 
 ### “Now women do not fit in the world”
@@ -267,7 +275,7 @@ Vives, 94–109; Le on, 302–28.
 
 
 
-# Zwei Männer werden ermordet für ihr Verhalten gegenüber Frauen
+# Mord an zwei MännernF für ihr Verhalten gegenüber Frauen
 ## 1636 in Madrid
 
 
@@ -277,12 +285,12 @@ Vives, 94–109; Le on, 302–28.
 
 
 # Verbote
-König Philip der Vierte muss auf die Situation in Madrid reagieren. Eine Nonne, mit welcher er in regem Austausch steht, empfiehlt ihm das Kleid zu verbieten und damit das Volk zu beruhigen.
+König Philipp IV. muss auf die Situation in Madrid reagieren. Eine Nonne, mit welcher er in regem Austausch steht, empfiehlt ihm das Kleid zu verbieten und damit das Volk zu beruhigen.
 Das Gesetz folgt am 13 April 1639. Mit Trommeln und Trompeten wird das Gesetz verkündet.
 
 <img src='img/Luxusgesetzte_Spanien.jpg'  >
 
-King Philip IV. Sumptuary law banning the guardainfante for all women
+King Philipp IV. Sumptuary law banning the guardainfante for all women
 except for prostitutes. Madrid, 1639. Historical and Special Collections,
 Harvard Law School Library.
 
@@ -364,9 +372,11 @@ Die spanische Krone zeigt ihre Prinzessinnen gerne in Guardainfanta, um die Fäh
 The portrait of the infanta Margarita (ca. 1665)
 Ignacio Ruiz de la Iglesia
 Oliv an Santaliestra, 2011, 843–45.
+Oil on canvas
+126 x 97 cm
 
 
-Tochter von König Philipp VI
+Tochter von König Philipp IV.
 Nach ihrer Heirat in den Wiener Hof
 
 
@@ -434,8 +444,8 @@ Der französische Diplomat Antoine de Grammont reist nach Spanien um die Hochzei
 
 <img src='img/Queen Mariana of Austria.png'  >
 
-The iconic guardainfante, as worn by Queen Mariana of Austria, second wife of Philip
-IV. Diego Vel azquez. Queen Mariana of Austria, ca. 1652. Museo Nacional del Prado, Madrid.
+The iconic guardainfante, as worn by Queen Mariana of Austria, second wife of Philipp
+IV. Diego Velazquez. Queen Mariana of Austria, ca. 1652. Museo Nacional del Prado, Madrid.
 
 ---
 
@@ -461,7 +471,7 @@ Museo del Prado
 The hoopskirt that seemed so “monstrous” in Paris and London was viewed
 much more favorably in Vienna, a Spanish ally with a common Habsburg bond,
 which was the destination of the infanta Margarita (1651–73). The daughter of
-Philip IV and Mariana of Austria, Margarita is best known as the little girl at
+Philipp IV. and Mariana of Austria, Margarita is best known as the little girl at
 the center of Vel azquez’s Las Meninas (1656) ), which features the
 five-year-old infanta wearing a guardainfante almost as wide as she is tall.
 
